@@ -5,8 +5,9 @@
 [![Journal: Pattern Recognition Letters](https://img.shields.io/badge/Journal-Pattern%20Recognition%20Letters-green.svg)](https://www.sciencedirect.com/journal/pattern-recognition-letters)
 
 Official code for the paper:
-
-> **Wansouwé, W.** (2026). *Partial Arc Ellipse Fitting via Cloud Regression: Critical Coverage Threshold and Sensitivity to Noise and Eccentricity.* Pattern Recognition Letters, Elsevier.
+>  **Wansouwé, W., & Melatagia Yonta, P.** (2026). *Partial Arc Ellipse Fitting 
+via Cloud Regression: Critical Coverage Threshold and Sensitivity to Noise 
+and Eccentricity.* Pattern Recognition Letters, Elsevier.
 
 ---
 
